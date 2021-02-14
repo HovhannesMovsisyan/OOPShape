@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\bin\Debug\netcoreapp3.1\Lecture1OOPHomework.exe
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\bin\Debug\netcoreapp3.1\Lecture1OOPHomework.deps.json
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\bin\Debug\netcoreapp3.1\Lecture1OOPHomework.runtimeconfig.json
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\bin\Debug\netcoreapp3.1\Lecture1OOPHomework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\bin\Debug\netcoreapp3.1\Lecture1OOPHomework.dll
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\bin\Debug\netcoreapp3.1\Lecture1OOPHomework.pdb
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.dll
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.pdb
+C:\Users\HP\Desktop\Lecture1OOPHomework\Lecture1OOPHomework\obj\Debug\netcoreapp3.1\Lecture1OOPHomework.genruntimeconfig.cache
